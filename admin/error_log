@@ -1,0 +1,558 @@
+[03-Jan-2016 16:40:45 UTC] PHP Notice:  Undefined variable: err2 in /home/admin/public_html/ticket/admin/busadd.php on line 66
+[03-Jan-2016 16:40:45 UTC] PHP Notice:  Undefined variable: err1 in /home/admin/public_html/ticket/admin/busadd.php on line 66
+[03-Jan-2016 16:40:45 UTC] PHP Notice:  Undefined variable: err3 in /home/admin/public_html/ticket/admin/busadd.php on line 66
+[03-Jan-2016 17:38:29 UTC] PHP Notice:  Undefined variable: ddaa in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[03-Jan-2016 17:38:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[03-Jan-2016 17:38:29 UTC] PHP Notice:  Undefined variable: ddaa in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[03-Jan-2016 17:38:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[03-Jan-2016 17:38:38 UTC] PHP Notice:  Undefined variable: ddaa in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[03-Jan-2016 17:38:38 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[03-Jan-2016 17:38:39 UTC] PHP Notice:  Undefined variable: ddaa in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[03-Jan-2016 17:38:39 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[03-Jan-2016 17:39:04 UTC] PHP Notice:  Undefined variable: ddaa in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[03-Jan-2016 17:39:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[03-Jan-2016 17:39:05 UTC] PHP Notice:  Undefined variable: ddaa in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[03-Jan-2016 17:39:05 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[03-Jan-2016 17:40:22 UTC] PHP Notice:  Undefined variable: ddaa in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[03-Jan-2016 17:40:22 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[03-Jan-2016 17:40:23 UTC] PHP Notice:  Undefined variable: ddaa in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[03-Jan-2016 17:40:23 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[03-Jan-2016 17:41:12 UTC] PHP Notice:  Undefined variable: seat in /home/admin/public_html/ticket/admin/authorize.php on line 198
+[03-Jan-2016 17:41:13 UTC] PHP Notice:  Undefined variable: seat in /home/admin/public_html/ticket/admin/authorize.php on line 200
+[03-Jan-2016 17:41:24 UTC] PHP Notice:  Undefined variable: seat in /home/admin/public_html/ticket/admin/authorize.php on line 198
+[03-Jan-2016 17:41:24 UTC] PHP Notice:  Undefined variable: seat in /home/admin/public_html/ticket/admin/authorize.php on line 200
+[03-Jan-2016 17:52:38 UTC] PHP Notice:  Undefined variable: ddaa in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[03-Jan-2016 17:52:38 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[03-Jan-2016 17:52:39 UTC] PHP Notice:  Undefined variable: ddaa in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[03-Jan-2016 17:52:39 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[03-Jan-2016 17:52:43 UTC] PHP Notice:  Undefined index: bid in /home/admin/public_html/ticket/admin/busview.php on line 22
+[03-Jan-2016 17:52:43 UTC] PHP Notice:  Undefined index: act in /home/admin/public_html/ticket/admin/busview.php on line 23
+[05-Jan-2016 16:15:20 UTC] PHP Notice:  Undefined index: dt in /home/admin/public_html/ticket/admin/busadd.php on line 46
+[05-Jan-2016 16:15:20 UTC] PHP Notice:  Undefined variable: err2 in /home/admin/public_html/ticket/admin/busadd.php on line 66
+[05-Jan-2016 16:15:20 UTC] PHP Notice:  Undefined variable: err1 in /home/admin/public_html/ticket/admin/busadd.php on line 66
+[05-Jan-2016 16:16:25 UTC] PHP Notice:  Undefined index: dt in /home/admin/public_html/ticket/admin/busadd.php on line 46
+[05-Jan-2016 16:16:25 UTC] PHP Notice:  Undefined variable: err2 in /home/admin/public_html/ticket/admin/busadd.php on line 66
+[05-Jan-2016 16:16:25 UTC] PHP Notice:  Undefined variable: err1 in /home/admin/public_html/ticket/admin/busadd.php on line 66
+[05-Jan-2016 16:19:26 UTC] PHP Notice:  Undefined index: dt in /home/admin/public_html/ticket/admin/busadd.php on line 46
+[05-Jan-2016 16:19:26 UTC] PHP Notice:  Undefined variable: err2 in /home/admin/public_html/ticket/admin/busadd.php on line 66
+[05-Jan-2016 16:19:26 UTC] PHP Notice:  Undefined variable: err1 in /home/admin/public_html/ticket/admin/busadd.php on line 66
+[05-Jan-2016 16:20:03 UTC] PHP Notice:  Undefined index: bid in /home/admin/public_html/ticket/admin/bussch.php on line 22
+[05-Jan-2016 16:20:03 UTC] PHP Notice:  Undefined index: act in /home/admin/public_html/ticket/admin/bussch.php on line 23
+[05-Jan-2016 16:21:09 UTC] PHP Notice:  Undefined index: bid in /home/admin/public_html/ticket/admin/bussch.php on line 22
+[05-Jan-2016 16:21:09 UTC] PHP Notice:  Undefined index: act in /home/admin/public_html/ticket/admin/bussch.php on line 23
+[05-Jan-2016 16:21:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/admin/bussch.php on line 67
+[05-Jan-2016 16:22:02 UTC] PHP Notice:  Undefined index: bid in /home/admin/public_html/ticket/admin/bussch.php on line 22
+[05-Jan-2016 16:22:02 UTC] PHP Notice:  Undefined index: act in /home/admin/public_html/ticket/admin/bussch.php on line 23
+[05-Jan-2016 16:22:02 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 70
+[05-Jan-2016 16:22:02 UTC] PHP Notice:  Undefined offset: 3 in /home/admin/public_html/ticket/admin/bussch.php on line 76
+[05-Jan-2016 16:22:02 UTC] PHP Notice:  Undefined offset: 5 in /home/admin/public_html/ticket/admin/bussch.php on line 85
+[05-Jan-2016 16:22:02 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 70
+[05-Jan-2016 16:22:02 UTC] PHP Notice:  Undefined offset: 3 in /home/admin/public_html/ticket/admin/bussch.php on line 76
+[05-Jan-2016 16:22:02 UTC] PHP Notice:  Undefined offset: 5 in /home/admin/public_html/ticket/admin/bussch.php on line 85
+[05-Jan-2016 16:22:02 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 70
+[05-Jan-2016 16:22:02 UTC] PHP Notice:  Undefined offset: 3 in /home/admin/public_html/ticket/admin/bussch.php on line 76
+[05-Jan-2016 16:22:02 UTC] PHP Notice:  Undefined offset: 5 in /home/admin/public_html/ticket/admin/bussch.php on line 85
+[05-Jan-2016 16:22:58 UTC] PHP Notice:  Undefined index: bid in /home/admin/public_html/ticket/admin/bussch.php on line 22
+[05-Jan-2016 16:22:58 UTC] PHP Notice:  Undefined index: act in /home/admin/public_html/ticket/admin/bussch.php on line 23
+[05-Jan-2016 16:22:58 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 70
+[05-Jan-2016 16:22:58 UTC] PHP Notice:  Undefined offset: 3 in /home/admin/public_html/ticket/admin/bussch.php on line 76
+[05-Jan-2016 16:22:58 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 70
+[05-Jan-2016 16:22:58 UTC] PHP Notice:  Undefined offset: 3 in /home/admin/public_html/ticket/admin/bussch.php on line 76
+[05-Jan-2016 16:22:58 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 70
+[05-Jan-2016 16:22:58 UTC] PHP Notice:  Undefined offset: 3 in /home/admin/public_html/ticket/admin/bussch.php on line 76
+[05-Jan-2016 16:23:27 UTC] PHP Notice:  Undefined index: bid in /home/admin/public_html/ticket/admin/bussch.php on line 22
+[05-Jan-2016 16:23:27 UTC] PHP Notice:  Undefined index: act in /home/admin/public_html/ticket/admin/bussch.php on line 23
+[05-Jan-2016 16:23:27 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 70
+[05-Jan-2016 16:23:27 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 70
+[05-Jan-2016 16:23:27 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 70
+[05-Jan-2016 16:24:17 UTC] PHP Notice:  Undefined index: bid in /home/admin/public_html/ticket/admin/busview.php on line 22
+[05-Jan-2016 16:24:17 UTC] PHP Notice:  Undefined index: act in /home/admin/public_html/ticket/admin/busview.php on line 23
+[05-Jan-2016 16:40:06 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/admin/public_html/ticket/admin/busaddition.php on line 59
+[05-Jan-2016 16:40:08 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/admin/public_html/ticket/admin/busaddition.php on line 59
+[05-Jan-2016 16:40:09 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/admin/public_html/ticket/admin/busaddition.php on line 59
+[05-Jan-2016 16:40:11 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/admin/public_html/ticket/admin/busaddition.php on line 59
+[05-Jan-2016 16:40:13 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/admin/public_html/ticket/admin/busaddition.php on line 59
+[05-Jan-2016 16:40:14 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/admin/public_html/ticket/admin/busaddition.php on line 59
+[05-Jan-2016 16:40:16 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/admin/public_html/ticket/admin/busaddition.php on line 59
+[05-Jan-2016 16:40:17 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/admin/public_html/ticket/admin/busaddition.php on line 59
+[05-Jan-2016 16:40:19 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/admin/public_html/ticket/admin/busaddition.php on line 59
+[05-Jan-2016 16:40:20 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/admin/public_html/ticket/admin/busaddition.php on line 59
+[05-Jan-2016 16:40:22 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/admin/public_html/ticket/admin/busaddition.php on line 59
+[05-Jan-2016 16:40:23 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/admin/public_html/ticket/admin/busaddition.php on line 59
+[05-Jan-2016 16:40:25 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/admin/public_html/ticket/admin/busaddition.php on line 59
+[05-Jan-2016 16:40:26 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/admin/public_html/ticket/admin/busaddition.php on line 59
+[05-Jan-2016 16:40:28 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/admin/public_html/ticket/admin/busaddition.php on line 59
+[05-Jan-2016 16:40:29 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/admin/public_html/ticket/admin/busaddition.php on line 59
+[05-Jan-2016 16:40:31 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/admin/public_html/ticket/admin/busaddition.php on line 59
+[05-Jan-2016 16:40:32 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/admin/public_html/ticket/admin/busaddition.php on line 58
+[05-Jan-2016 16:40:34 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/admin/public_html/ticket/admin/busaddition.php on line 58
+[05-Jan-2016 16:40:36 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/admin/public_html/ticket/admin/busaddition.php on line 58
+[05-Jan-2016 16:40:38 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/admin/public_html/ticket/admin/busaddition.php on line 58
+[05-Jan-2016 16:40:39 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/admin/public_html/ticket/admin/busaddition.php on line 58
+[05-Jan-2016 16:40:41 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/admin/public_html/ticket/admin/busaddition.php on line 56
+[05-Jan-2016 16:40:43 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/admin/public_html/ticket/admin/busaddition.php on line 56
+[05-Jan-2016 16:40:45 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/admin/public_html/ticket/admin/busaddition.php on line 56
+[05-Jan-2016 16:40:46 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/admin/public_html/ticket/admin/busaddition.php on line 56
+[05-Jan-2016 16:40:48 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/admin/public_html/ticket/admin/busaddition.php on line 56
+[05-Jan-2016 16:40:49 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/admin/public_html/ticket/admin/busaddition.php on line 56
+[05-Jan-2016 16:40:51 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/admin/public_html/ticket/admin/busaddition.php on line 56
+[05-Jan-2016 16:40:52 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/admin/public_html/ticket/admin/busaddition.php on line 56
+[05-Jan-2016 16:40:54 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/admin/public_html/ticket/admin/busaddition.php on line 56
+[05-Jan-2016 16:47:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 78
+[05-Jan-2016 16:47:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 78
+[05-Jan-2016 16:47:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 78
+[05-Jan-2016 16:48:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 78
+[05-Jan-2016 16:48:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 78
+[05-Jan-2016 16:48:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 78
+[05-Jan-2016 16:48:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 78
+[05-Jan-2016 16:48:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 78
+[05-Jan-2016 16:48:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 78
+[05-Jan-2016 16:48:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 78
+[05-Jan-2016 16:48:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 78
+[05-Jan-2016 16:48:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 78
+[05-Jan-2016 16:48:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 78
+[05-Jan-2016 16:48:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 78
+[05-Jan-2016 16:48:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 78
+[05-Jan-2016 16:48:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 78
+[05-Jan-2016 16:48:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 78
+[05-Jan-2016 16:48:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 78
+[05-Jan-2016 16:48:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 78
+[05-Jan-2016 16:48:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 78
+[05-Jan-2016 16:48:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 78
+[05-Jan-2016 16:48:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 78
+[05-Jan-2016 16:48:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 78
+[05-Jan-2016 16:48:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 78
+[05-Jan-2016 16:48:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 78
+[05-Jan-2016 16:48:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 78
+[05-Jan-2016 16:48:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 78
+[05-Jan-2016 16:48:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 78
+[05-Jan-2016 16:48:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 78
+[05-Jan-2016 16:48:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 78
+[05-Jan-2016 16:48:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 78
+[05-Jan-2016 16:48:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 78
+[05-Jan-2016 16:51:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:51:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:51:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:51:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:51:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:51:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:51:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:51:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:51:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:51:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:51:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:51:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:51:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:51:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:51:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:51:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:51:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:51:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:51:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:51:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:51:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:51:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:52:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:53:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:53:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:53:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:53:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:53:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:53:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:53:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:53:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:53:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:53:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:53:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:53:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:53:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:53:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/admin/public_html/ticket/admin/busaddition.php on line 75
+[05-Jan-2016 16:54:25 UTC] PHP Notice:  Undefined index: bid in /home/admin/public_html/ticket/admin/busview.php on line 22
+[05-Jan-2016 16:54:25 UTC] PHP Notice:  Undefined index: act in /home/admin/public_html/ticket/admin/busview.php on line 23
+[05-Jan-2016 16:54:33 UTC] PHP Notice:  Undefined variable: ddaa in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[05-Jan-2016 16:54:33 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[05-Jan-2016 16:54:35 UTC] PHP Notice:  Undefined variable: ddaa in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[05-Jan-2016 16:54:35 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[05-Jan-2016 16:54:45 UTC] PHP Notice:  Undefined variable: ddaa in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[05-Jan-2016 16:54:45 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[05-Jan-2016 16:54:46 UTC] PHP Notice:  Undefined variable: ddaa in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[05-Jan-2016 16:54:46 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[05-Jan-2016 16:55:25 UTC] PHP Notice:  Undefined variable: ddaa in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[05-Jan-2016 16:55:25 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[05-Jan-2016 16:55:25 UTC] PHP Notice:  Undefined variable: ddaa in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[05-Jan-2016 16:55:25 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[05-Jan-2016 16:55:26 UTC] PHP Notice:  Undefined variable: ddaa in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[05-Jan-2016 16:55:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[05-Jan-2016 16:55:27 UTC] PHP Notice:  Undefined variable: ddaa in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[05-Jan-2016 16:55:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/admin/seatview.php on line 196
+[05-Jan-2016 17:20:30 UTC] PHP Notice:  Undefined index: bid in /home/admin/public_html/ticket/admin/bussch.php on line 22
+[05-Jan-2016 17:20:30 UTC] PHP Notice:  Undefined index: act in /home/admin/public_html/ticket/admin/bussch.php on line 23
+[05-Jan-2016 17:20:30 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 70
+[05-Jan-2016 17:20:30 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 70
+[05-Jan-2016 17:20:30 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 70
+[05-Jan-2016 17:20:44 UTC] PHP Notice:  Undefined index: bid in /home/admin/public_html/ticket/admin/busview.php on line 22
+[05-Jan-2016 17:20:44 UTC] PHP Notice:  Undefined index: act in /home/admin/public_html/ticket/admin/busview.php on line 23
+[05-Jan-2016 17:21:18 UTC] PHP Notice:  Undefined index: bid in /home/admin/public_html/ticket/admin/busview.php on line 22
+[05-Jan-2016 17:21:18 UTC] PHP Notice:  Undefined index: act in /home/admin/public_html/ticket/admin/busview.php on line 23
+[05-Jan-2016 17:21:21 UTC] PHP Notice:  Undefined index: bid in /home/admin/public_html/ticket/admin/bussch.php on line 22
+[05-Jan-2016 17:21:21 UTC] PHP Notice:  Undefined index: act in /home/admin/public_html/ticket/admin/bussch.php on line 23
+[05-Jan-2016 17:21:21 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 70
+[05-Jan-2016 17:21:21 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 70
+[05-Jan-2016 17:21:21 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 70
+[05-Jan-2016 17:24:11 UTC] PHP Notice:  Undefined index: bid in /home/admin/public_html/ticket/admin/bussch.php on line 22
+[05-Jan-2016 17:24:11 UTC] PHP Notice:  Undefined index: act in /home/admin/public_html/ticket/admin/bussch.php on line 23
+[05-Jan-2016 17:24:11 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 70
+[05-Jan-2016 17:24:11 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 70
+[05-Jan-2016 17:24:11 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 70
+[05-Jan-2016 17:24:12 UTC] PHP Notice:  Undefined index: bid in /home/admin/public_html/ticket/admin/busview.php on line 22
+[05-Jan-2016 17:24:12 UTC] PHP Notice:  Undefined index: act in /home/admin/public_html/ticket/admin/busview.php on line 23
+[05-Jan-2016 17:31:07 UTC] PHP Parse error:  syntax error, unexpected '$ddaa' (T_VARIABLE) in /home/admin/public_html/ticket/admin/busaddition.php on line 134
+[05-Jan-2016 17:31:08 UTC] PHP Parse error:  syntax error, unexpected '$ddaa' (T_VARIABLE) in /home/admin/public_html/ticket/admin/busaddition.php on line 134
+[05-Jan-2016 17:31:10 UTC] PHP Parse error:  syntax error, unexpected '$ddaa' (T_VARIABLE) in /home/admin/public_html/ticket/admin/busaddition.php on line 134
+[05-Jan-2016 17:31:11 UTC] PHP Parse error:  syntax error, unexpected '$ddaa' (T_VARIABLE) in /home/admin/public_html/ticket/admin/busaddition.php on line 134
+[05-Jan-2016 17:31:13 UTC] PHP Parse error:  syntax error, unexpected '$ddaa' (T_VARIABLE) in /home/admin/public_html/ticket/admin/busaddition.php on line 134
+[05-Jan-2016 17:31:15 UTC] PHP Parse error:  syntax error, unexpected '$ddaa' (T_VARIABLE) in /home/admin/public_html/ticket/admin/busaddition.php on line 134
+[05-Jan-2016 17:31:16 UTC] PHP Parse error:  syntax error, unexpected '$ddaa' (T_VARIABLE) in /home/admin/public_html/ticket/admin/busaddition.php on line 134
+[05-Jan-2016 17:31:18 UTC] PHP Parse error:  syntax error, unexpected '$ddaa' (T_VARIABLE) in /home/admin/public_html/ticket/admin/busaddition.php on line 134
+[05-Jan-2016 17:31:20 UTC] PHP Parse error:  syntax error, unexpected '$ddaa' (T_VARIABLE) in /home/admin/public_html/ticket/admin/busaddition.php on line 134
+[05-Jan-2016 17:31:21 UTC] PHP Parse error:  syntax error, unexpected '$ddaa' (T_VARIABLE) in /home/admin/public_html/ticket/admin/busaddition.php on line 134
+[05-Jan-2016 17:31:23 UTC] PHP Parse error:  syntax error, unexpected '$ddaa' (T_VARIABLE) in /home/admin/public_html/ticket/admin/busaddition.php on line 134
+[05-Jan-2016 17:31:24 UTC] PHP Parse error:  syntax error, unexpected '$ddaa' (T_VARIABLE) in /home/admin/public_html/ticket/admin/busaddition.php on line 134
+[05-Jan-2016 17:31:26 UTC] PHP Parse error:  syntax error, unexpected '$ddaa' (T_VARIABLE) in /home/admin/public_html/ticket/admin/busaddition.php on line 134
+[05-Jan-2016 17:31:27 UTC] PHP Parse error:  syntax error, unexpected '$ddaa' (T_VARIABLE) in /home/admin/public_html/ticket/admin/busaddition.php on line 134
+[05-Jan-2016 17:31:29 UTC] PHP Parse error:  syntax error, unexpected '$ddaa' (T_VARIABLE) in /home/admin/public_html/ticket/admin/busaddition.php on line 134
+[05-Jan-2016 17:31:30 UTC] PHP Parse error:  syntax error, unexpected '$ddaa' (T_VARIABLE) in /home/admin/public_html/ticket/admin/busaddition.php on line 134
+[05-Jan-2016 17:31:32 UTC] PHP Parse error:  syntax error, unexpected '$ddaa' (T_VARIABLE) in /home/admin/public_html/ticket/admin/busaddition.php on line 134
+[05-Jan-2016 17:31:33 UTC] PHP Parse error:  syntax error, unexpected '$ddaa' (T_VARIABLE) in /home/admin/public_html/ticket/admin/busaddition.php on line 134
+[05-Jan-2016 17:31:35 UTC] PHP Parse error:  syntax error, unexpected '$ddaa' (T_VARIABLE) in /home/admin/public_html/ticket/admin/busaddition.php on line 134
+[05-Jan-2016 17:31:36 UTC] PHP Parse error:  syntax error, unexpected '$ddaa' (T_VARIABLE) in /home/admin/public_html/ticket/admin/busaddition.php on line 134
+[05-Jan-2016 17:31:38 UTC] PHP Parse error:  syntax error, unexpected '$ddaa' (T_VARIABLE) in /home/admin/public_html/ticket/admin/busaddition.php on line 134
+[05-Jan-2016 17:31:40 UTC] PHP Parse error:  syntax error, unexpected '$ddaa' (T_VARIABLE) in /home/admin/public_html/ticket/admin/busaddition.php on line 134
+[05-Jan-2016 17:31:41 UTC] PHP Parse error:  syntax error, unexpected '$ddaa' (T_VARIABLE) in /home/admin/public_html/ticket/admin/busaddition.php on line 134
+[05-Jan-2016 17:31:43 UTC] PHP Parse error:  syntax error, unexpected '$ddaa' (T_VARIABLE) in /home/admin/public_html/ticket/admin/busaddition.php on line 134
+[05-Jan-2016 17:31:44 UTC] PHP Parse error:  syntax error, unexpected '$ddaa' (T_VARIABLE) in /home/admin/public_html/ticket/admin/busaddition.php on line 134
+[05-Jan-2016 17:34:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 17:34:58 UTC] PHP Notice:  Undefined index: bid in /home/admin/public_html/ticket/admin/bussch.php on line 22
+[05-Jan-2016 17:34:58 UTC] PHP Notice:  Undefined index: act in /home/admin/public_html/ticket/admin/bussch.php on line 23
+[05-Jan-2016 17:34:58 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 70
+[05-Jan-2016 17:34:58 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 70
+[05-Jan-2016 17:34:58 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 70
+[05-Jan-2016 17:35:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 17:35:03 UTC] PHP Notice:  Undefined index: bid in /home/admin/public_html/ticket/admin/bussch.php on line 22
+[05-Jan-2016 17:35:03 UTC] PHP Notice:  Undefined index: act in /home/admin/public_html/ticket/admin/bussch.php on line 23
+[05-Jan-2016 17:35:03 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 70
+[05-Jan-2016 17:35:03 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 70
+[05-Jan-2016 17:35:03 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 70
+[05-Jan-2016 17:35:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 17:36:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 17:36:01 UTC] PHP Notice:  Undefined index: bid in /home/admin/public_html/ticket/admin/bussch.php on line 22
+[05-Jan-2016 17:36:01 UTC] PHP Notice:  Undefined index: act in /home/admin/public_html/ticket/admin/bussch.php on line 23
+[05-Jan-2016 17:36:01 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 70
+[05-Jan-2016 17:36:01 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 70
+[05-Jan-2016 17:36:01 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 70
+[05-Jan-2016 17:36:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 17:37:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 17:37:38 UTC] PHP Notice:  Undefined index: dt in /home/admin/public_html/ticket/admin/busadd.php on line 46
+[05-Jan-2016 17:37:38 UTC] PHP Notice:  Undefined variable: err2 in /home/admin/public_html/ticket/admin/busadd.php on line 66
+[05-Jan-2016 17:37:38 UTC] PHP Notice:  Undefined variable: err1 in /home/admin/public_html/ticket/admin/busadd.php on line 66
+[05-Jan-2016 17:37:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 17:37:49 UTC] PHP Notice:  Undefined index: dt in /home/admin/public_html/ticket/admin/busadd.php on line 46
+[05-Jan-2016 17:37:49 UTC] PHP Notice:  Undefined variable: err2 in /home/admin/public_html/ticket/admin/busadd.php on line 66
+[05-Jan-2016 17:37:49 UTC] PHP Notice:  Undefined variable: err1 in /home/admin/public_html/ticket/admin/busadd.php on line 66
+[05-Jan-2016 17:37:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 17:40:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 17:41:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 17:44:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 17:44:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 17:44:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 17:45:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 17:45:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 17:45:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 17:46:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 17:46:07 UTC] PHP Notice:  Undefined index: dt in /home/admin/public_html/ticket/admin/busadd.php on line 46
+[05-Jan-2016 17:46:07 UTC] PHP Notice:  Undefined variable: err2 in /home/admin/public_html/ticket/admin/busadd.php on line 66
+[05-Jan-2016 17:46:07 UTC] PHP Notice:  Undefined variable: err1 in /home/admin/public_html/ticket/admin/busadd.php on line 66
+[05-Jan-2016 17:46:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 17:49:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 17:49:19 UTC] PHP Notice:  Undefined index: dt in /home/admin/public_html/ticket/admin/busadd.php on line 46
+[05-Jan-2016 17:49:19 UTC] PHP Notice:  Undefined variable: err2 in /home/admin/public_html/ticket/admin/busadd.php on line 66
+[05-Jan-2016 17:49:19 UTC] PHP Notice:  Undefined variable: err1 in /home/admin/public_html/ticket/admin/busadd.php on line 66
+[05-Jan-2016 17:49:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 17:50:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 17:50:11 UTC] PHP Notice:  Undefined index: bid in /home/admin/public_html/ticket/admin/bussch.php on line 22
+[05-Jan-2016 17:50:11 UTC] PHP Notice:  Undefined index: act in /home/admin/public_html/ticket/admin/bussch.php on line 23
+[05-Jan-2016 17:50:11 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 70
+[05-Jan-2016 17:50:11 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 70
+[05-Jan-2016 17:51:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 17:51:50 UTC] PHP Notice:  Undefined index: bid in /home/admin/public_html/ticket/admin/bussch.php on line 22
+[05-Jan-2016 17:51:50 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 69
+[05-Jan-2016 17:51:50 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 69
+[05-Jan-2016 17:51:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 17:51:58 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 69
+[05-Jan-2016 17:51:58 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 69
+[05-Jan-2016 17:52:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 17:52:23 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 69
+[05-Jan-2016 17:52:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 17:53:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 17:53:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 17:53:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 18:37:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 18:38:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 18:38:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 18:38:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 18:38:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 18:38:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 18:38:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 18:40:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 18:40:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 18:40:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 18:40:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 18:40:56 UTC] PHP Notice:  Undefined variable: err1 in /home/admin/public_html/ticket/admin/menuedit.php on line 63
+[05-Jan-2016 18:41:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[05-Jan-2016 18:41:23 UTC] PHP Notice:  Undefined variable: err1 in /home/admin/public_html/ticket/admin/menuedit.php on line 63
+[06-Jan-2016 10:02:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 10:04:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 10:04:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 10:06:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 10:06:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 10:06:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 10:07:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 10:07:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 10:07:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 10:07:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 10:07:37 UTC] PHP Notice:  Undefined index: bgimg in /home/admin/public_html/ticket/admin/setlogo.php on line 57
+[06-Jan-2016 10:07:37 UTC] PHP Notice:  Undefined index: bgimg in /home/admin/public_html/ticket/admin/setlogo.php on line 61
+[06-Jan-2016 10:07:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 10:08:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 10:08:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 10:08:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 10:08:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 10:08:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 10:08:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 10:08:57 UTC] PHP Notice:  Undefined index: bid in /home/admin/public_html/ticket/admin/bussch.php on line 22
+[06-Jan-2016 10:08:57 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 69
+[06-Jan-2016 10:09:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 10:09:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 10:09:09 UTC] PHP Notice:  Undefined index: bid in /home/admin/public_html/ticket/admin/busview.php on line 22
+[06-Jan-2016 10:09:09 UTC] PHP Notice:  Undefined index: act in /home/admin/public_html/ticket/admin/busview.php on line 23
+[06-Jan-2016 10:09:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 10:09:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 10:09:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 10:09:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 10:10:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 10:11:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 10:11:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 10:11:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 10:13:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 10:13:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 12:10:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 12:19:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 12:19:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 12:19:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:10:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:11:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:11:06 UTC] PHP Notice:  Undefined index: bid in /home/admin/public_html/ticket/admin/busview.php on line 22
+[06-Jan-2016 17:11:06 UTC] PHP Notice:  Undefined index: act in /home/admin/public_html/ticket/admin/busview.php on line 23
+[06-Jan-2016 17:11:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:11:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:11:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:12:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:12:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:12:59 UTC] PHP Notice:  Undefined index: seats in /home/admin/public_html/ticket/admin/success.php on line 49
+[06-Jan-2016 17:12:59 UTC] PHP Notice:  Undefined variable: ssee in /home/admin/public_html/ticket/admin/success.php on line 196
+[06-Jan-2016 17:24:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:26:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:26:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:27:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:28:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:29:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:29:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:29:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:29:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:29:40 UTC] PHP Notice:  Undefined index: bgimg in /home/admin/public_html/ticket/admin/setlogo.php on line 57
+[06-Jan-2016 17:29:40 UTC] PHP Notice:  Undefined index: bgimg in /home/admin/public_html/ticket/admin/setlogo.php on line 61
+[06-Jan-2016 17:29:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:30:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:30:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:31:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:31:07 UTC] PHP Notice:  Undefined variable: seat in /home/admin/public_html/ticket/admin/authorize.php on line 198
+[06-Jan-2016 17:31:08 UTC] PHP Notice:  Undefined variable: seat in /home/admin/public_html/ticket/admin/authorize.php on line 200
+[06-Jan-2016 17:31:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:31:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:31:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:31:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:32:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:32:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:32:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:33:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:33:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:33:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:33:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:34:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:34:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:34:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:34:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:34:31 UTC] PHP Notice:  Undefined index: dt in /home/admin/public_html/ticket/admin/busadd.php on line 46
+[06-Jan-2016 17:34:31 UTC] PHP Notice:  Undefined variable: err2 in /home/admin/public_html/ticket/admin/busadd.php on line 66
+[06-Jan-2016 17:34:31 UTC] PHP Notice:  Undefined variable: err1 in /home/admin/public_html/ticket/admin/busadd.php on line 66
+[06-Jan-2016 17:34:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:34:38 UTC] PHP Notice:  Undefined index: dt in /home/admin/public_html/ticket/admin/busadd.php on line 46
+[06-Jan-2016 17:34:38 UTC] PHP Notice:  Undefined variable: err2 in /home/admin/public_html/ticket/admin/busadd.php on line 66
+[06-Jan-2016 17:34:38 UTC] PHP Notice:  Undefined variable: err1 in /home/admin/public_html/ticket/admin/busadd.php on line 66
+[06-Jan-2016 17:34:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:34:48 UTC] PHP Notice:  Undefined index: dt in /home/admin/public_html/ticket/admin/busadd.php on line 46
+[06-Jan-2016 17:34:48 UTC] PHP Notice:  Undefined variable: err2 in /home/admin/public_html/ticket/admin/busadd.php on line 66
+[06-Jan-2016 17:34:48 UTC] PHP Notice:  Undefined variable: err1 in /home/admin/public_html/ticket/admin/busadd.php on line 66
+[06-Jan-2016 17:35:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:35:15 UTC] PHP Notice:  Undefined index: bid in /home/admin/public_html/ticket/admin/bussch.php on line 22
+[06-Jan-2016 17:35:15 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 69
+[06-Jan-2016 17:35:15 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 69
+[06-Jan-2016 17:35:15 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 69
+[06-Jan-2016 17:35:15 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 69
+[06-Jan-2016 17:36:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:36:06 UTC] PHP Notice:  Undefined index: bid in /home/admin/public_html/ticket/admin/busview.php on line 22
+[06-Jan-2016 17:36:06 UTC] PHP Notice:  Undefined index: act in /home/admin/public_html/ticket/admin/busview.php on line 23
+[06-Jan-2016 17:36:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:36:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:36:21 UTC] PHP Notice:  Undefined index: bid in /home/admin/public_html/ticket/admin/busview.php on line 22
+[06-Jan-2016 17:36:21 UTC] PHP Notice:  Undefined index: act in /home/admin/public_html/ticket/admin/busview.php on line 23
+[06-Jan-2016 17:36:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:36:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:36:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:36:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:36:47 UTC] PHP Notice:  Undefined index: seats in /home/admin/public_html/ticket/admin/books.php on line 54
+[06-Jan-2016 17:36:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/admin/public_html/ticket/admin/books.php on line 62
+[06-Jan-2016 17:37:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:37:06 UTC] PHP Notice:  Undefined index: bid in /home/admin/public_html/ticket/admin/busview.php on line 22
+[06-Jan-2016 17:37:06 UTC] PHP Notice:  Undefined index: act in /home/admin/public_html/ticket/admin/busview.php on line 23
+[06-Jan-2016 17:37:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:37:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:37:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:39:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:39:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:39:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:39:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:39:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:40:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:40:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:40:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:40:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:40:24 UTC] PHP Notice:  Undefined index: bid in /home/admin/public_html/ticket/admin/busview.php on line 22
+[06-Jan-2016 17:40:24 UTC] PHP Notice:  Undefined index: act in /home/admin/public_html/ticket/admin/busview.php on line 23
+[06-Jan-2016 17:40:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:40:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:40:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:40:46 UTC] PHP Notice:  Undefined index: bid in /home/admin/public_html/ticket/admin/bussch.php on line 22
+[06-Jan-2016 17:40:46 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 69
+[06-Jan-2016 17:40:46 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 69
+[06-Jan-2016 17:40:46 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 69
+[06-Jan-2016 17:40:46 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 69
+[06-Jan-2016 17:40:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:40:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:41:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:41:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:41:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:41:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:41:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:41:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:41:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:43:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:43:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:43:50 UTC] PHP Notice:  Undefined index: bid in /home/admin/public_html/ticket/admin/busview.php on line 22
+[06-Jan-2016 17:43:50 UTC] PHP Notice:  Undefined index: act in /home/admin/public_html/ticket/admin/busview.php on line 23
+[06-Jan-2016 17:43:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:43:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:44:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:44:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:44:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:44:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 17:44:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 18:20:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 18:21:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 18:21:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 18:24:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 18:24:51 UTC] PHP Notice:  Undefined variable: err1 in /home/admin/public_html/ticket/admin/menuedit.php on line 63
+[06-Jan-2016 18:25:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 18:25:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 18:25:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 18:25:38 UTC] PHP Notice:  Undefined variable: err1 in /home/admin/public_html/ticket/admin/menuedit.php on line 63
+[06-Jan-2016 18:25:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 18:25:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 18:25:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 18:25:53 UTC] PHP Notice:  Undefined variable: err1 in /home/admin/public_html/ticket/admin/menuedit.php on line 63
+[06-Jan-2016 18:25:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 18:26:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 18:26:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 18:26:10 UTC] PHP Notice:  Undefined variable: err1 in /home/admin/public_html/ticket/admin/menuedit.php on line 63
+[06-Jan-2016 18:26:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 18:26:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 18:26:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 18:26:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 18:26:29 UTC] PHP Notice:  Undefined variable: err1 in /home/admin/public_html/ticket/admin/menuedit.php on line 63
+[06-Jan-2016 18:43:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 19:11:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 19:12:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 19:12:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 19:13:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 19:13:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 19:13:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 19:13:37 UTC] PHP Notice:  Undefined index: bid in /home/admin/public_html/ticket/admin/bussch.php on line 22
+[06-Jan-2016 19:13:37 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 69
+[06-Jan-2016 19:13:37 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 69
+[06-Jan-2016 19:13:37 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 69
+[06-Jan-2016 19:13:37 UTC] PHP Notice:  Undefined offset: 4 in /home/admin/public_html/ticket/admin/bussch.php on line 69
+[06-Jan-2016 19:13:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 19:13:57 UTC] PHP Notice:  Undefined index: bid in /home/admin/public_html/ticket/admin/busview.php on line 22
+[06-Jan-2016 19:13:57 UTC] PHP Notice:  Undefined index: act in /home/admin/public_html/ticket/admin/busview.php on line 23
+[06-Jan-2016 19:14:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 19:14:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 19:14:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 19:14:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 19:15:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 19:15:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 19:15:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 19:16:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 19:16:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 19:16:23 UTC] PHP Notice:  Undefined index: bgimg in /home/admin/public_html/ticket/admin/setlogo.php on line 57
+[06-Jan-2016 19:16:23 UTC] PHP Notice:  Undefined index: bgimg in /home/admin/public_html/ticket/admin/setlogo.php on line 61
+[06-Jan-2016 19:16:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 19:17:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 19:17:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4
+[06-Jan-2016 19:17:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/admin/public_html/ticket/admin/busaddition.php on line 4

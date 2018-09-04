@@ -1,0 +1,137 @@
+[13-Nov-2015 17:46:43 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/mytickets.php on line 61
+[14-Nov-2015 07:06:40 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/mytickets.php on line 61
+[14-Nov-2015 07:07:02 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/mytickets.php on line 61
+[14-Nov-2015 07:08:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/mytickets.php on line 61
+[07-Dec-2015 14:09:48 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/register.php on line 85
+[07-Dec-2015 14:10:52 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/mytickets.php on line 61
+[28-Dec-2015 22:53:57 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/schedules.php on line 69
+[28-Dec-2015 22:53:57 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/schedules.php on line 69
+[28-Dec-2015 22:54:15 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/schedules.php on line 69
+[28-Dec-2015 22:54:15 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/schedules.php on line 69
+[03-Jan-2016 16:12:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/mytickets.php on line 61
+[03-Jan-2016 16:12:46 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/mytickets.php on line 61
+[03-Jan-2016 16:24:05 UTC] PHP Warning:  require_once(admin/function.php): failed to open stream: No such file or directory in /home/admin/public_html/ticket/include/header.php on line 2
+[03-Jan-2016 16:24:05 UTC] PHP Fatal error:  require_once(): Failed opening required 'admin/function.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/admin/public_html/ticket/include/header.php on line 2
+[03-Jan-2016 16:24:08 UTC] PHP Warning:  require_once(admin/function.php): failed to open stream: No such file or directory in /home/admin/public_html/ticket/include/header.php on line 2
+[03-Jan-2016 16:24:08 UTC] PHP Fatal error:  require_once(): Failed opening required 'admin/function.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/admin/public_html/ticket/include/header.php on line 2
+[03-Jan-2016 16:24:19 UTC] PHP Warning:  require_once(admin/function.php): failed to open stream: No such file or directory in /home/admin/public_html/ticket/include/header.php on line 2
+[03-Jan-2016 16:24:19 UTC] PHP Fatal error:  require_once(): Failed opening required 'admin/function.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/admin/public_html/ticket/include/header.php on line 2
+[03-Jan-2016 16:24:38 UTC] PHP Warning:  include(include/header.php): failed to open stream: No such file or directory in /home/admin/public_html/ticket/user/schedules.php on line 2
+[03-Jan-2016 16:24:38 UTC] PHP Warning:  include(include/header.php): failed to open stream: No such file or directory in /home/admin/public_html/ticket/user/schedules.php on line 2
+[03-Jan-2016 16:24:38 UTC] PHP Warning:  include(): Failed opening 'include/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/admin/public_html/ticket/user/schedules.php on line 2
+[03-Jan-2016 16:24:38 UTC] PHP Warning:  include(include/menu.php): failed to open stream: No such file or directory in /home/admin/public_html/ticket/user/schedules.php on line 25
+[03-Jan-2016 16:24:38 UTC] PHP Warning:  include(include/menu.php): failed to open stream: No such file or directory in /home/admin/public_html/ticket/user/schedules.php on line 25
+[03-Jan-2016 16:24:38 UTC] PHP Warning:  include(): Failed opening 'include/menu.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/admin/public_html/ticket/user/schedules.php on line 25
+[03-Jan-2016 16:24:38 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/admin/public_html/ticket/user/schedules.php on line 37
+[03-Jan-2016 16:24:38 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/admin/public_html/ticket/user/schedules.php on line 37
+[03-Jan-2016 16:24:38 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/schedules.php on line 39
+[03-Jan-2016 16:24:38 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/admin/public_html/ticket/user/schedules.php on line 93
+[03-Jan-2016 16:24:38 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/admin/public_html/ticket/user/schedules.php on line 93
+[03-Jan-2016 16:24:38 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/schedules.php on line 95
+[03-Jan-2016 16:24:38 UTC] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /home/admin/public_html/ticket/user/schedules.php on line 145
+[03-Jan-2016 16:24:38 UTC] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /home/admin/public_html/ticket/user/schedules.php on line 145
+[03-Jan-2016 16:24:38 UTC] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/admin/public_html/ticket/user/schedules.php on line 145
+[03-Jan-2016 16:25:17 UTC] PHP Warning:  require_once(admin/function.php): failed to open stream: No such file or directory in /home/admin/public_html/ticket/include/header.php on line 2
+[03-Jan-2016 16:25:17 UTC] PHP Fatal error:  require_once(): Failed opening required 'admin/function.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/admin/public_html/ticket/include/header.php on line 2
+[03-Jan-2016 16:27:40 UTC] PHP Warning:  require_once(admin/function.php): failed to open stream: No such file or directory in /home/admin/public_html/ticket/include/header.php on line 2
+[03-Jan-2016 16:27:40 UTC] PHP Fatal error:  require_once(): Failed opening required 'admin/function.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/admin/public_html/ticket/include/header.php on line 2
+[03-Jan-2016 16:30:29 UTC] PHP Warning:  require_once(admin/function.php): failed to open stream: No such file or directory in /home/admin/public_html/ticket/include/header.php on line 2
+[03-Jan-2016 16:30:29 UTC] PHP Fatal error:  require_once(): Failed opening required 'admin/function.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/admin/public_html/ticket/include/header.php on line 2
+[03-Jan-2016 16:31:02 UTC] PHP Warning:  require_once(admin/function.php): failed to open stream: No such file or directory in /home/admin/public_html/ticket/user/include/header.php on line 2
+[03-Jan-2016 16:31:02 UTC] PHP Fatal error:  require_once(): Failed opening required 'admin/function.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/admin/public_html/ticket/user/include/header.php on line 2
+[03-Jan-2016 16:31:04 UTC] PHP Warning:  require_once(admin/function.php): failed to open stream: No such file or directory in /home/admin/public_html/ticket/user/include/header.php on line 2
+[03-Jan-2016 16:31:04 UTC] PHP Fatal error:  require_once(): Failed opening required 'admin/function.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/admin/public_html/ticket/user/include/header.php on line 2
+[03-Jan-2016 16:31:05 UTC] PHP Warning:  require_once(admin/function.php): failed to open stream: No such file or directory in /home/admin/public_html/ticket/user/include/header.php on line 2
+[03-Jan-2016 16:31:05 UTC] PHP Fatal error:  require_once(): Failed opening required 'admin/function.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/admin/public_html/ticket/user/include/header.php on line 2
+[03-Jan-2016 16:31:35 UTC] PHP Notice:  Undefined index: date in /home/admin/public_html/ticket/user/schedules.php on line 85
+[03-Jan-2016 16:31:35 UTC] PHP Notice:  Undefined index: route in /home/admin/public_html/ticket/user/schedules.php on line 86
+[03-Jan-2016 16:34:59 UTC] PHP Notice:  Undefined index: date in /home/admin/public_html/ticket/user/schedules.php on line 85
+[03-Jan-2016 16:34:59 UTC] PHP Notice:  Undefined index: route in /home/admin/public_html/ticket/user/schedules.php on line 86
+[03-Jan-2016 16:36:09 UTC] PHP Notice:  Undefined index: date in /home/admin/public_html/ticket/user/schedules.php on line 85
+[03-Jan-2016 16:36:09 UTC] PHP Notice:  Undefined index: route in /home/admin/public_html/ticket/user/schedules.php on line 86
+[03-Jan-2016 16:37:03 UTC] PHP Notice:  Undefined index: date in /home/admin/public_html/ticket/user/schedules.php on line 85
+[03-Jan-2016 16:37:03 UTC] PHP Notice:  Undefined index: route in /home/admin/public_html/ticket/user/schedules.php on line 86
+[03-Jan-2016 16:37:34 UTC] PHP Notice:  Undefined index: date in /home/admin/public_html/ticket/user/schedules.php on line 64
+[03-Jan-2016 16:37:34 UTC] PHP Notice:  Undefined index: route in /home/admin/public_html/ticket/user/schedules.php on line 65
+[03-Jan-2016 16:37:46 UTC] PHP Notice:  Undefined index: date in /home/admin/public_html/ticket/user/schedules.php on line 64
+[03-Jan-2016 16:37:46 UTC] PHP Notice:  Undefined index: route in /home/admin/public_html/ticket/user/schedules.php on line 65
+[03-Jan-2016 16:42:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/register.php on line 85
+[03-Jan-2016 16:42:49 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/user/busseats.php on line 198
+[03-Jan-2016 16:46:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/user/busseats.php on line 197
+[03-Jan-2016 16:46:52 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/mytickets.php on line 61
+[03-Jan-2016 16:47:49 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/mytickets.php on line 61
+[03-Jan-2016 16:48:35 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/mytickets.php on line 61
+[03-Jan-2016 16:48:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/mytickets.php on line 61
+[03-Jan-2016 16:48:46 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/mytickets.php on line 61
+[03-Jan-2016 16:49:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/mytickets.php on line 61
+[03-Jan-2016 16:51:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/user/busseats.php on line 197
+[03-Jan-2016 16:57:01 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/user/busseats.php on line 197
+[03-Jan-2016 16:57:51 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/user/busseats.php on line 195
+[03-Jan-2016 16:58:42 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/print.php on line 22
+[03-Jan-2016 16:58:57 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/user/busseats.php on line 195
+[03-Jan-2016 16:59:00 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/user/busseats.php on line 195
+[03-Jan-2016 16:59:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/mytickets.php on line 61
+[03-Jan-2016 17:02:51 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/user/busseats.php on line 195
+[03-Jan-2016 17:05:56 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/mytickets.php on line 61
+[03-Jan-2016 17:06:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/print.php on line 22
+[03-Jan-2016 17:07:25 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/print.php on line 22
+[03-Jan-2016 17:07:47 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/print.php on line 22
+[03-Jan-2016 17:08:17 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/print.php on line 22
+[03-Jan-2016 17:08:23 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/print.php on line 22
+[03-Jan-2016 17:09:02 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/print.php on line 25
+[03-Jan-2016 17:09:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/print.php on line 25
+[03-Jan-2016 17:09:51 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/print.php on line 25
+[03-Jan-2016 17:11:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/print.php on line 25
+[03-Jan-2016 17:11:05 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/print.php on line 25
+[03-Jan-2016 17:11:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/print.php on line 25
+[03-Jan-2016 17:11:42 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/print.php on line 25
+[03-Jan-2016 17:12:19 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/print.php on line 25
+[03-Jan-2016 17:12:33 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/ticket/user/print.php on line 25
+[03-Jan-2016 17:17:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/user/busseats.php on line 195
+[03-Jan-2016 17:24:44 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/user/busseats.php on line 195
+[03-Jan-2016 17:35:01 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/user/busseats.php on line 195
+[03-Jan-2016 17:35:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/admin/public_html/ticket/user/bookseats.php on line 56
+[03-Jan-2016 17:35:11 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/user/busseats.php on line 195
+[03-Jan-2016 17:53:02 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/user/busseats.php on line 195
+[03-Jan-2016 17:53:37 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/user/busseats.php on line 195
+[03-Jan-2016 17:57:21 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/user/busseats.php on line 195
+[03-Jan-2016 17:57:43 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/user/busseats.php on line 195
+[03-Jan-2016 17:58:46 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/user/busseats.php on line 191
+[03-Jan-2016 18:01:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/admin/public_html/ticket/user/bookseats.php on line 56
+[03-Jan-2016 18:02:14 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/user/busseats.php on line 198
+[03-Jan-2016 18:02:20 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/user/busseats.php on line 198
+[03-Jan-2016 18:02:43 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/user/busseats.php on line 198
+[03-Jan-2016 18:03:01 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/user/busseats.php on line 198
+[05-Jan-2016 18:14:55 UTC] PHP Notice:  Undefined index: date in /home/admin/public_html/ticket/user/schedules.php on line 64
+[05-Jan-2016 18:14:55 UTC] PHP Notice:  Undefined index: route in /home/admin/public_html/ticket/user/schedules.php on line 65
+[05-Jan-2016 18:16:42 UTC] PHP Notice:  Undefined index: date in /home/admin/public_html/ticket/user/schedules.php on line 64
+[05-Jan-2016 18:16:42 UTC] PHP Notice:  Undefined index: route in /home/admin/public_html/ticket/user/schedules.php on line 65
+[05-Jan-2016 18:18:57 UTC] PHP Notice:  Undefined index: date in /home/admin/public_html/ticket/user/schedules.php on line 64
+[05-Jan-2016 18:18:57 UTC] PHP Notice:  Undefined index: route in /home/admin/public_html/ticket/user/schedules.php on line 65
+[05-Jan-2016 18:19:27 UTC] PHP Notice:  Undefined index: date in /home/admin/public_html/ticket/user/schedules.php on line 64
+[05-Jan-2016 18:19:27 UTC] PHP Notice:  Undefined index: route in /home/admin/public_html/ticket/user/schedules.php on line 65
+[05-Jan-2016 18:20:01 UTC] PHP Notice:  Undefined index: date in /home/admin/public_html/ticket/user/schedules.php on line 64
+[05-Jan-2016 18:20:01 UTC] PHP Notice:  Undefined index: route in /home/admin/public_html/ticket/user/schedules.php on line 65
+[05-Jan-2016 18:20:48 UTC] PHP Notice:  Undefined index: date in /home/admin/public_html/ticket/user/schedules.php on line 64
+[05-Jan-2016 18:20:48 UTC] PHP Notice:  Undefined index: route in /home/admin/public_html/ticket/user/schedules.php on line 65
+[05-Jan-2016 18:25:18 UTC] PHP Notice:  Undefined index: date in /home/admin/public_html/ticket/user/schedules.php on line 64
+[05-Jan-2016 18:25:18 UTC] PHP Notice:  Undefined index: route in /home/admin/public_html/ticket/user/schedules.php on line 65
+[05-Jan-2016 18:25:29 UTC] PHP Notice:  Undefined index: date in /home/admin/public_html/ticket/user/schedules.php on line 64
+[05-Jan-2016 18:25:29 UTC] PHP Notice:  Undefined index: route in /home/admin/public_html/ticket/user/schedules.php on line 65
+[05-Jan-2016 18:26:18 UTC] PHP Notice:  Undefined index: date in /home/admin/public_html/ticket/user/schedules.php on line 64
+[05-Jan-2016 18:26:18 UTC] PHP Notice:  Undefined index: route in /home/admin/public_html/ticket/user/schedules.php on line 65
+[05-Jan-2016 18:26:18 UTC] PHP Notice:  Undefined index: date in /home/admin/public_html/ticket/user/schedules.php on line 64
+[05-Jan-2016 18:26:18 UTC] PHP Notice:  Undefined index: route in /home/admin/public_html/ticket/user/schedules.php on line 65
+[05-Jan-2016 18:26:45 UTC] PHP Notice:  Undefined index: date in /home/admin/public_html/ticket/user/schedules.php on line 66
+[05-Jan-2016 18:26:45 UTC] PHP Notice:  Undefined index: route in /home/admin/public_html/ticket/user/schedules.php on line 67
+[06-Jan-2016 10:12:37 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/user/busseats.php on line 198
+[06-Jan-2016 17:09:42 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/user/busseats.php on line 198
+[06-Jan-2016 18:27:57 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/user/busseats.php on line 198
+[06-Jan-2016 18:28:44 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/user/busseats.php on line 198
+[06-Jan-2016 18:53:24 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/user/busseats.php on line 198
+[06-Jan-2016 18:54:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/user/busseats.php on line 198
+[06-Jan-2016 18:57:14 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/user/busseats.php on line 198
+[06-Jan-2016 18:57:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/admin/public_html/ticket/user/bookseats.php on line 56
+[06-Jan-2016 18:57:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/admin/public_html/ticket/user/success.php on line 49
+[06-Jan-2016 19:01:31 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/user/busseats.php on line 198
+[06-Jan-2016 19:09:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/admin/public_html/ticket/user/busseats.php on line 198
